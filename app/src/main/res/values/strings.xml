@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RFID Cloner</string>
+    <!--<string name="action_settings">Dump JSON</string>-->
+    <!-- Strings used for fragments for navigation -->
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+</resources>
