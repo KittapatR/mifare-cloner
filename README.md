@@ -3,7 +3,7 @@ _CPE494 Penetration tools design for cybersecurity assessment_
 
 Application for MiFare card header information extraction
 
-For persons who interested in this application, it can install by download .APK file and press allow "Unknown Sources" in your Android settings -> Security -> Device Administration.
+For persons who interested in this application, it can install by download .APK file provided in the repository and press allow "Unknown Sources" in your Android settings -> Security -> Device Administration.
 
 ## Requirements
 1. You must have an Android device that running Jelly Bean 4.2+.
